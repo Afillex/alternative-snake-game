@@ -1,3 +1,2 @@
-#Alternative Snake Game
-
+# Alternative Snake Game
 A modest snake game!
